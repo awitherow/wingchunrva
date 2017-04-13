@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Permanent+Marker');
+
+.app,
+button {
+    font-family: 'Oswald', sans-serif;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 48px;
+    margin-bottom: 8px;
+    line-height: 44px;
+}
+
+h2 {
+    background: white;
+    color: #8a0707;
+    margin: 12px 0 4px 0;
+    padding: 5px 10px;
+}
+
+.info-container {
+    max-width: 350px;
+    padding: 0 25px;
+}
+
+.button-container {
+    max-width: 250px;
+    padding-top: 12px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    background: rgba(0,0,0,0.10);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.button:visited {
+    color: white;
+}
+
+a:visited {
+    color: #8a0707;
+}
