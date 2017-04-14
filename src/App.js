@@ -9,7 +9,7 @@ class App extends Component {
                 <h2>詠春</h2>
                 <div className="info-container">
                     <p>
-                        Wing Chun nach traditionelle Art. Dienstags von 19:30 bis 20:45, oder Donnerstags von 20:00 bis zum 21:30. Komm Mal vorbei um der richtige Art zu erleben.
+                        Wing Chun nach traditionelle Art. Dienstags von 19:00 bis 20:45, oder Donnerstags von 20:00 bis zum 21:30. Komm Mal vorbei um der richtige Art zu erleben.
                     </p>
                     <div className="button-container">
                         <a
